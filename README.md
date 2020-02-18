@@ -1,2 +1,2 @@
 # rymden
-I rymden är allt möjligt. Eller?
+I rymden är allt möjligt.
